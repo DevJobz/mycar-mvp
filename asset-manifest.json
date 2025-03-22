@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mycar-mvp/static/css/main.20f8a9a9.css",
-    "main.js": "/mycar-mvp/static/js/main.fa3d5bca.js",
+    "main.js": "/mycar-mvp/static/js/main.a21fe5fb.js",
     "static/js/453.8ab44547.chunk.js": "/mycar-mvp/static/js/453.8ab44547.chunk.js",
     "index.html": "/mycar-mvp/index.html",
     "main.20f8a9a9.css.map": "/mycar-mvp/static/css/main.20f8a9a9.css.map",
-    "main.fa3d5bca.js.map": "/mycar-mvp/static/js/main.fa3d5bca.js.map",
+    "main.a21fe5fb.js.map": "/mycar-mvp/static/js/main.a21fe5fb.js.map",
     "453.8ab44547.chunk.js.map": "/mycar-mvp/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.20f8a9a9.css",
-    "static/js/main.fa3d5bca.js"
+    "static/js/main.a21fe5fb.js"
   ]
 }
